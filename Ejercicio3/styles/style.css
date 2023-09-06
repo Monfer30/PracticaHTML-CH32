@@ -1,0 +1,32 @@
+body{
+    padding: 15px;
+}
+
+img {
+    padding: 10px;
+    max-height: 300px;
+    max-width: 300px;
+  }
+
+
+#facebook{
+    background-color: pink;
+}
+
+#youtube{
+    background-color: greenyellow;
+    
+}
+
+#google{
+    background-color: rgb(179, 103, 179);
+    
+}
+
+#instagram{
+    background-color: darksalmon;
+}
+ #linkedin{
+    background-color: aqua;
+ }
+
